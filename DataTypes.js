@@ -29,4 +29,5 @@ const myFunction2 = function () {
   console.log(Math.pow(7, 3));
 };
 
-myFunction();
+myFunction1();
+myFunction2();
